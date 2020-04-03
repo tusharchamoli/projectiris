@@ -10,6 +10,7 @@ Computer Vision aided wearable device for Visually Impaired with Smart Voice Ass
  
 Lakshya Gupta(Student UPES, Dehradun)  
 Megha Gupta(Student MRIU, Faridabad)
+
 Jai Gupta(Student UPES, Dehradun)  
 Tushar Chamoli(Student UPES, Dehradun)   
  
